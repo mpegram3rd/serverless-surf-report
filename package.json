@@ -2,7 +2,7 @@
   "name": "serverless-api",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "serverless": "^1.54.0"
   }
